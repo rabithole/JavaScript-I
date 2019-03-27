@@ -35,5 +35,5 @@ const subtract = (param1, param2) => param1 - param2;
 // });
 // console.log(triple);
 
-const triple = exampleArray.map(function (num) => num * 3;
+const triple = (num) => exampleArray.map(num * 3);
 console.log(triple(3));
